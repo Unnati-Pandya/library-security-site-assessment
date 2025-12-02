@@ -1,7 +1,9 @@
- ## Library Security Site Assessment — Physical Infrastructure Review
+ ## Physical Security Site Assessment - library Infrastructure Review
 
  **Project Owner:** Unnati Pandya
- 
+
+ Physical Security Audit | Access Control | Surveillance | Threat Reduction
+
 Physical security audit and site assessment for a college library. Evaluated layout, access control, surveillance coverage, workstation risks, and delivered actionable security improvements.
 
 ## Overview
