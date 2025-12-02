@@ -46,7 +46,8 @@ The objective was to identify risk that could led to an unauthorized acces, data
 
 ## Project Documentation
 
-docs/Library-Security-Site-Assessment-UnnatiPandya.pdf
+[Library Security Site Assessment — Unnati Pandya](docs/Library-Security-Site-Assessment-UnnatiPandya.pdf)
+
 
 ## Project Led By:
 **Unnati Pandya**
