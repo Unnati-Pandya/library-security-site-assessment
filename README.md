@@ -4,11 +4,11 @@
  
 Physical security audit and site assessment for a college library. Evaluated layout, access control, surveillance coverage, workstation risks, and delivered actionable security improvements.
 
-##Overview
+## Overview
 This project involved on-site rveiew of library's physical infrastructure to analyze how people, devices and space interact.
 The objective was to identify risk that could led to an unauthorized acces, data exposure, safety issues or operational disruptions.
 
-##The assessment focused on:
+## The assessment focused on:
 
 - Entry and exit access paths
 - Camera visibility and blind spots
@@ -26,7 +26,7 @@ The objective was to identify risk that could led to an unauthorized acces, data
   - Documented environmental risks such as open windows and unprotected cable layouts
 
 
-    ##Recommendations
+    ## Recommendations
     
   - Introduce privacy-oriented workstation placement
   - Enforce restricted access to staff rooms and operational spaces
@@ -35,7 +35,7 @@ The objective was to identify risk that could led to an unauthorized acces, data
   - Improve physical storage controls to protect sensitive assets
  
 
-  ##Outcomes
+  ## Outcomes
 
 - Reduced unauthorized visibility of workstations
 - Strengthened spatial seperation between staff and public area
@@ -48,7 +48,7 @@ The objective was to identify risk that could led to an unauthorized acces, data
 
 docs/Library-Security-Site-Assessment-UnnatiPandya.pdf
 
-##Project Led By:
+## Project Led By:
 **Unnati Pandya**
 Physical Security & Infrastructure Audit - Library Environment
 
