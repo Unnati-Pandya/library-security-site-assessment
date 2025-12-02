@@ -45,12 +45,13 @@ The objective was to identify risk that could led to an unauthorized acces, data
 
 
 ## Project Documentation
+ [Library Security Site Assessment — Unnati Pandya](docs/Library-Security-Site-Assessment-UnnatiPandya.pdf)
 
-[Library Security Site Assessment — Unnati Pandya](docs/Library-Security-Site-Assessment-UnnatiPandya.pdf)
+
 
 
 ## Project Led By:
 **Unnati Pandya**
-Physical Security & Infrastructure Audit - Library Environment
+Physical Security & Infrastructure Audit 
 
   
